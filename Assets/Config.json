@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "prefix": "",
+    "color": "",
+    "database": {
+        "host": "",
+        "username": "",
+        "database": "",
+        "password": "",
+        "port": ""
+    }
+}
